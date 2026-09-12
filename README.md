@@ -127,7 +127,7 @@ The final dashboard combines KPI cards, PivotTable-based analysis, and charts to
 ---
 ## Dashboard Preview
 
-![VEDA Technology Task 5 Dashboard](dashboard-preview(2))
+![VEDA Technology Task 5 Dashboard](dashboard-preview%20%282%29.png)
 
 ##  Deliverables
 
