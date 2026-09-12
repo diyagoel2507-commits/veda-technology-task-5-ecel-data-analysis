@@ -125,6 +125,9 @@ The final dashboard combines KPI cards, PivotTable-based analysis, and charts to
 - Quantity by Region
 
 ---
+## Dashboard Preview
+
+![VEDA Technology Task 5 Dashboard](dashboard-preview(2).png)
 
 ##  Deliverables
 
